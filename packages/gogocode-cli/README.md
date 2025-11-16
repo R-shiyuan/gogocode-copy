@@ -7,12 +7,12 @@
 npm install gogocode-cli -g
 ```
 # Usage
-### 初始化一个插件sample项目
+### 初始
 
 ```
 gogocode init
 ```
-### 转换代码next
+### 转换代码
 
 ```
 gogogcode --src script.js --out script-compiled.js --transform=vue2-to-vue3,el2-to-el3
